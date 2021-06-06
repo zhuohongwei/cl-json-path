@@ -1,6 +1,6 @@
 # cl-json-path
 
-A small utility to make extracting values from nested JSON easier. Originally wrote this to work with cl-json but it can be customizable to work for other representations too.
+A small utility to make extracting values from nested JSON easier. Originally wrote this to work with cl-json but it can be customized to work for other representations too.
 
 ## Usage
 
